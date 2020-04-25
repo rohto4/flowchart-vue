@@ -1,3 +1,11 @@
+This site is quoted
+FlowChart-vue
+https://vuejsexamples.com/flowchart-flowchart-designer-component-for-vue-js/
+Bootstrap を Vue.js で使ってみよう
+https://qiita.com/kurararara/items/620dd4de798a941099f5
+初心者向け！Vue.jsの開発環境の構築
+https://qiita.com/Mitsuzara/items/4dea8c0aa95d6284980a
+
 # Flowchart
 
 Flowchart & Flowchart designer component for Vue.js.
@@ -83,7 +91,7 @@ See more at [src/views/App.vue](https://github.com/joyceworks/flowchart-vue/blob
   yarn install
   yarn run serve
   ```
-  
+
   Then open http://localhost:yourport/ in browser.
 
 ## API

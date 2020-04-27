@@ -1,4 +1,4 @@
-# This site is quoted
+# Quoted is this site.
 - FlowChart-vue
 https://vuejsexamples.com/flowchart-flowchart-designer-component-for-vue-js/
 - Bootstrap を Vue.js で使ってみよう
@@ -6,9 +6,8 @@ https://qiita.com/kurararara/items/620dd4de798a941099f5
 - 初心者向け！Vue.jsの開発環境の構築
 https://qiita.com/Mitsuzara/items/4dea8c0aa95d6284980a
 
-# flowchart-vue and cloudshell[![Open in Cloud Shell]
-(http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/rohto4/flowchart-vue.git)
-
+# flowchart-vue and cloudshell
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/rohto4/flowchart-vue.git)
 
 # Flowchart
 
